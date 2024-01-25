@@ -4,6 +4,7 @@
 
 This repository contains the code for a MERN (MongoDB, Express.js, React, Node.js) stack application for managing invoices. The project is divided into two folders: `frontend` for the Vite/React frontend and `backend` for the MERN stack backend.
 
+## Short Showcase Video
 
 [![YouTube Thumbnail](demo-images/yt-img.png)](https://www.youtube.com/watch?v=f_9hX3UU2u0)
 
